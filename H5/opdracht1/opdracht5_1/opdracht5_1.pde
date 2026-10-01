@@ -1,5 +1,5 @@
 String a = "hallo";
 String b = "ik";
-String c = "iemand";
-String d = "onbekend";
+String c = "ben";
+String d = "iemand";
 println(a + " " + b + " " + c + " " + d);
