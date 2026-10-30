@@ -7,10 +7,11 @@ void setup(){
 
 void draw(){
   background(255, 255, 255);
-  tijd();
+tijd();
 }
+
+
+
 void tijd() {
-println(hour());
-println(minute());
-println(second());
+  println("de tijd is nu " + hour() +" uur " + minute()+ " minute " +second()+ " seconden" );
 }
